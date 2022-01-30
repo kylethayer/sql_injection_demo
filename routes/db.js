@@ -26,7 +26,7 @@ db.serialize(() => {
         VALUES('The password for Kyle is: "pa55w0rd"'),
               ('The treasure is hidden on the 5th floor'),
               ('Operation treadstone has been shut down'),
-              ('You also get this bonus message that wasn't in the video!')
+              ('You also get this bonus message that was not in the video!')
   `)
 })
 
