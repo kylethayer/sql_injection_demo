@@ -6,3 +6,16 @@ body {
 a {
   color: #00B7FF;
 }
+
+
+input[type=text] {
+  width: 500px;
+}
+
+
+pre {
+  margin-left: 20px;
+  background-color: GhostWhite;
+  padding: 10px;
+  border: solid lightgray 0.5px
+}
