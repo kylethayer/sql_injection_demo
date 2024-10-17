@@ -15,9 +15,9 @@ models.serialize(() => {
   .run(`INSERT INTO people(first_name, last_name)
         VALUES("Kyle", "Thayer"),
               ("Kyle", "Chandler"),
-              ("Miranda", "Ma"),
-              ("Jared", "Lim"),
-              ("Jason", "Bourne"),
+              ("Jasmine", "Zhang"),
+              ("", "Lim"),
+              ("David", "Pham"),
               ("IBetYouDidn'tGuess", "ThisName")`)
 
   .run('CREATE TABLE secret_table(message text)')
